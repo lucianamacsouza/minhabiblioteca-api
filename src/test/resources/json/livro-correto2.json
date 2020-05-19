@@ -1,0 +1,21 @@
+    {
+        "titulo": "UML 2.0",
+        "subtitulo": "Uma abordagem prática mais moderna",
+        "codigoBarras": "0788575220523",
+        "anoEdicao": 2013,
+        "numeroEdicao": 2,
+        "isbn10": "05-7522-052-3",
+        "resumo": "Livro com uma abordagem prática sobre os diagramas da UML",
+        "autor": {
+            "id": 1
+        },
+        "genero": {
+            "id": 1
+        },
+        "editora": {
+            "id": 1
+        },
+        "proprietario": {
+            "id": 1
+        }
+    }

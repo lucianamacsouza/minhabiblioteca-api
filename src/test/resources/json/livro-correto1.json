@@ -1,0 +1,21 @@
+    {
+        "titulo": "UML",
+        "subtitulo": "Uma abordagem prática",
+        "codigoBarras": "0788575220528",
+        "anoEdicao": 2010,
+        "numeroEdicao": 1,
+        "isbn10": "05-7522-052-7",
+        "resumo": "Livro com uma abordagem prática sobre os diagramas da UML, incluindo exemplos reais",
+        "autor": {
+            "id": 1
+        },
+        "genero": {
+            "id": 1
+        },
+        "editora": {
+            "id": 1
+        },
+        "proprietario": {
+            "id": 1
+        }
+    }
